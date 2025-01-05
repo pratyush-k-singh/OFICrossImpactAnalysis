@@ -1,4 +1,3 @@
-```markdown
 # Cross-Impact Analysis of Order Flow Imbalance (OFI)
 
 Cross-Impact Analysis of Order Flow Imbalance (OFI) is a comprehensive market microstructure analysis platform that implements the methodology from "Cross-Impact of Order Flow Imbalance in Equity Markets" (Cont et al., 2023) for analyzing order flow dynamics and price formation.
@@ -162,4 +161,3 @@ results = analyzer.compute_contemporaneous_impact(
 
 - Cont et al. for the OFI methodology
 - Databento for market data access
-```
